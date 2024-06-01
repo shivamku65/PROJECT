@@ -1,0 +1,4 @@
+#Tue Jun 01 15:45:40 PKT 2021
+base.0=C\:\\Users\\Nouman Ahmad\\OneDrive\\Desktop\\Android-App-Skin-Cancer-Detector\\Testing\\SmartDoctor\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Tue Jun 01 15:45:40 PKT 2021
+7.path=lib/x86_64/libtensorflowlite_jni.so
+2.base=C\:\\Users\\Nouman Ahmad\\OneDrive\\Desktop\\Android-App-Skin-Cancer-Detector\\Testing\\SmartDoctor\\app\\build\\intermediates\\merged_assets\\debug\\out
+5.set=ASSET
+0.path=lib/x86/libtensorflowlite_jni.so
+2.baseType=DIRECTORY
+3.base=C\:\\Users\\Nouman Ahmad\\OneDrive\\Desktop\\Android-App-Skin-Cancer-Detector\\Testing\\SmartDoctor\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+7.baseType=DIRECTORY
+2.set=ASSET
+1.path=model.tflite
+4.base=C\:\\Users\\Nouman Ahmad\\OneDrive\\Desktop\\Android-App-Skin-Cancer-Detector\\Testing\\SmartDoctor\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+7.set=NATIVE_RESOURCE
+count=8
+5.baseType=DIRECTORY
+2.path=skin-icon.jpg
+5.base=C\:\\Users\\Nouman Ahmad\\OneDrive\\Desktop\\Android-App-Skin-Cancer-Detector\\Testing\\SmartDoctor\\app\\build\\intermediates\\merged_assets\\debug\\out
+4.set=NATIVE_RESOURCE
+3.path=lib/arm64-v8a/libtensorflowlite_jni.so
+6.base=C\:\\Users\\Nouman Ahmad\\OneDrive\\Desktop\\Android-App-Skin-Cancer-Detector\\Testing\\SmartDoctor\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=lib/armeabi-v7a/libtensorflowlite_jni.so
+7.base=C\:\\Users\\Nouman Ahmad\\OneDrive\\Desktop\\Android-App-Skin-Cancer-Detector\\Testing\\SmartDoctor\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+6.set=DEX
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=labels.txt
+0.base=C\:\\Users\\Nouman Ahmad\\OneDrive\\Desktop\\Android-App-Skin-Cancer-Detector\\Testing\\SmartDoctor\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+6.path=classes.dex
+1.base=C\:\\Users\\Nouman Ahmad\\OneDrive\\Desktop\\Android-App-Skin-Cancer-Detector\\Testing\\SmartDoctor\\app\\build\\intermediates\\merged_assets\\debug\\out
+4.baseType=DIRECTORY
+0.set=NATIVE_RESOURCE
